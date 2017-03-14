@@ -1,7 +1,15 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
+  title: "Broadchurch"
+  series: 3
+  description: "moany detective drama"
+  image: "placeholder.jpg"
+  programmeId: "uyg76h"
 
 two:
-  title: MyString
+  title: "Peep Show"
+  series: 7
+  description: "People in a flat"
+  image: "placeholder.jpg"
+  programmeId: "ygd7636hd"
